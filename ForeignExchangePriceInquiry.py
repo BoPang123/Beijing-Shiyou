@@ -84,7 +84,7 @@ def currency_to_chinese_name(currency_code):
         "ZAR": "南非兰特",
         "SAR": "沙特里亚尔",
         "TRY": "土耳其里拉",
-        # 在这里添加更多的货币代号和对应的中文名
+
     }
     return currency_names.get(currency_code)
 
